@@ -1,0 +1,5 @@
+.DS_Store
+node_modules
+public/derby
+npm-debug.log
+#config.coffee
